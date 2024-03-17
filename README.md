@@ -5,6 +5,8 @@
 - 🤓 I am electronic technician.
 - 🚗 Fun fact: I like mechanics, cars, and driving.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/manug179/) [Mail to me](mailto:manuel.agustin.gomez@mi.unc.edu.ar)
+- ![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 
 <!--
 **manug859/manug859** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
