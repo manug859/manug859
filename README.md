@@ -1,4 +1,4 @@
-### Hi there 👋
+### HI THERE 🤝
 
 ##
 - 🌱 I’m currently learning computer science in FaMAF, UNC. 
