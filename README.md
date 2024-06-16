@@ -6,4 +6,10 @@
 
 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manug179/)
+<a href="https://www.linkedin.com/in/manug179/">
+  <img src="https://raw.githubusercontent.com/feathericons/feather/1b002399e8758fb2bccea4d07312dc9e0f43dcb8/icons/linkedin.svg" width="50" />
+</a>
+
+<a href="mailto:manuel.agustin.gomez@mi.unc.edu.ar">
+  <img src="https://raw.githubusercontent.com/feathericons/feather/1b002399e8758fb2bccea4d07312dc9e0f43dcb8/icons/mail.svg" width="50" />
+</a>
