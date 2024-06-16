@@ -2,7 +2,7 @@
 
 ### Hi, I'm Manuel. I am currently studying for a degree in Computer Science.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manug859&theme=dark)](https://github.com/manug859/github-readme-stats)
+<a href="https://github.com/manug859/github-readme-stats" ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manug859&layout=compact&theme=material-palenight&hide_border=true" /></a>
 
 Currently learning 
 
@@ -11,5 +11,3 @@ Currently learning
 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manug179/)
-
-Please let me know if there's anything else I can help you with!
